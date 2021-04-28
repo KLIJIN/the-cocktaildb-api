@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/the-cocktaildb-api/static/css/main.e0086047.chunk.css",
-    "main.js": "/the-cocktaildb-api/static/js/main.80aaca27.chunk.js",
-    "main.js.map": "/the-cocktaildb-api/static/js/main.80aaca27.chunk.js.map",
+    "main.js": "/the-cocktaildb-api/static/js/main.765b47d2.chunk.js",
+    "main.js.map": "/the-cocktaildb-api/static/js/main.765b47d2.chunk.js.map",
     "runtime-main.js": "/the-cocktaildb-api/static/js/runtime-main.3edb392c.js",
     "runtime-main.js.map": "/the-cocktaildb-api/static/js/runtime-main.3edb392c.js.map",
     "static/js/2.9451884a.chunk.js": "/the-cocktaildb-api/static/js/2.9451884a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3edb392c.js",
     "static/js/2.9451884a.chunk.js",
     "static/css/main.e0086047.chunk.css",
-    "static/js/main.80aaca27.chunk.js"
+    "static/js/main.765b47d2.chunk.js"
   ]
 }
