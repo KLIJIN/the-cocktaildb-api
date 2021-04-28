@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/the-cocktaildb-api/static/css/main.e0086047.chunk.css",
+    "main.js": "/the-cocktaildb-api/static/js/main.80aaca27.chunk.js",
+    "main.js.map": "/the-cocktaildb-api/static/js/main.80aaca27.chunk.js.map",
+    "runtime-main.js": "/the-cocktaildb-api/static/js/runtime-main.3edb392c.js",
+    "runtime-main.js.map": "/the-cocktaildb-api/static/js/runtime-main.3edb392c.js.map",
+    "static/js/2.9451884a.chunk.js": "/the-cocktaildb-api/static/js/2.9451884a.chunk.js",
+    "static/js/2.9451884a.chunk.js.map": "/the-cocktaildb-api/static/js/2.9451884a.chunk.js.map",
+    "index.html": "/the-cocktaildb-api/index.html",
+    "static/css/main.e0086047.chunk.css.map": "/the-cocktaildb-api/static/css/main.e0086047.chunk.css.map",
+    "static/js/2.9451884a.chunk.js.LICENSE.txt": "/the-cocktaildb-api/static/js/2.9451884a.chunk.js.LICENSE.txt",
+    "static/media/modal-x.bd302ffb.svg": "/the-cocktaildb-api/static/media/modal-x.bd302ffb.svg",
+    "static/media/x-circle-fill.0c2bf7c6.svg": "/the-cocktaildb-api/static/media/x-circle-fill.0c2bf7c6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3edb392c.js",
+    "static/js/2.9451884a.chunk.js",
+    "static/css/main.e0086047.chunk.css",
+    "static/js/main.80aaca27.chunk.js"
+  ]
+}
